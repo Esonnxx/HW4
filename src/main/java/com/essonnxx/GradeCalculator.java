@@ -6,7 +6,6 @@ package com.essonnxx;
  * Description:
  *
  * @Author Esonnxx
- * @Create 2024/1/3 下午 12:55
  * @Version 1.0
  */
 
@@ -28,9 +27,10 @@ public class GradeCalculator {
             grade = 'F';
         return grade;
     }
-
     public static void main(String[] args) {
 
-        System.out.println("新增Main Func");
     }
+
+
+
 }
