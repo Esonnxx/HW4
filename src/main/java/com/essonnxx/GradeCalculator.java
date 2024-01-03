@@ -28,4 +28,9 @@ public class GradeCalculator {
             grade = 'F';
         return grade;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println("新增Main Func");
     }
+}
